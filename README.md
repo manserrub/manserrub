@@ -51,6 +51,6 @@ Agile • Scrum • Hexagonal Architecture • Microservices
 
 📄 **CV:** [View my Resume](https://drive.google.com/file/d/1X0QZTFSiJXtru8Syl9xrMFbSUHfQCIGt/view)
 
-💼 **LinkedIn:** *(https://www.linkedin.com/in/manuel-serrano-rubio-3670b9265/)*
+💼 **LinkedIn:** *[LINK]*(https://www.linkedin.com/in/manuel-serrano-rubio-3670b9265/)
 
 </div>
